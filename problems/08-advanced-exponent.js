@@ -40,9 +40,8 @@ times `advancedExponent` is being recursively called.
 ***********************************************************************/
 
 
-function advancedExponent(b, n) {
-  // Your code here
-}
+
+
 
 
 /**************DO NOT MODIFY ANYTHING UNDER THIS LINE*****************/

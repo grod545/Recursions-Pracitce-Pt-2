@@ -32,7 +32,6 @@ function exponent(num, power) {
         }
         return (1/num) * exponent(num, power + 1)
     }
-
 }
 
 /**************DO NOT MODIFY ANYTHING UNDER THIS LINE*****************/
